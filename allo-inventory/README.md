@@ -2,7 +2,7 @@
 
 A multi-warehouse inventory and order-fulfillment platform with race-condition-safe reservation logic.
 
-**Live URL:** allo-inventory-8wmh7qpnb-sow-s-projects1.vercel.app
+**Live URL:** [allo-inventory-8wmh7qpnb-sow-s-projects1.vercel.app](https://allo-inventory-l7zivogmn-sow-s-projects1.vercel.app)
 
 ---
 
