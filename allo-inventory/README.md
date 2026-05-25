@@ -2,7 +2,7 @@
 
 A multi-warehouse inventory and order-fulfillment platform with race-condition-safe reservation logic.
 
-**Live URL:** [add your Vercel URL here]
+**Live URL:** allo-inventory-8wmh7qpnb-sow-s-projects1.vercel.app
 
 ---
 
@@ -11,7 +11,7 @@ A multi-warehouse inventory and order-fulfillment platform with race-condition-s
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/allo-inventory
+git clone https://github.com/sow0910/-allo-inventory
 cd allo-inventory
 npm install
 ```
